@@ -26,13 +26,13 @@ UK health geography is managed through distinct administrative tiers. This utili
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/JHerron1990/nhs-number-validator.git
+git clone https://github.com/JHerron1990/nhs-postcode-router.git
 ```
 
 2. Navigate into the project folder:
 
 ```bash
-cd nhs-number-validator
+cd nhs-postcode-router
 ```
 
 ## Running the Application
@@ -48,13 +48,13 @@ This project uses Ruff for linting and formatting. You can run these commands in
 * Check code for quality/errors:
 
 ```bash
-uv x ruff check
+uvx ruff check
 ```
 
 * Auto-format code cleanly:
 
 ```bash
-uv x ruff format
+uvx ruff format
 ```
 
 ## License
